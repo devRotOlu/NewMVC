@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/LumiStoreBook/.vs/LumiStoreBook
+/LumiStoreBook/obj
+/LumiStoreBook/bin/Debug/net6.0
