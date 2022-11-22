@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LumiStoreBook", "LumiStoreBook.csproj", "{B37FF120-47DD-4522-B1F8-EC845621EEE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lumiBookStore", "lumiBookStore.csproj", "{AD309359-A5E7-4776-8C97-5AEC95C911A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B37FF120-47DD-4522-B1F8-EC845621EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B37FF120-47DD-4522-B1F8-EC845621EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B37FF120-47DD-4522-B1F8-EC845621EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B37FF120-47DD-4522-B1F8-EC845621EEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD309359-A5E7-4776-8C97-5AEC95C911A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD309359-A5E7-4776-8C97-5AEC95C911A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD309359-A5E7-4776-8C97-5AEC95C911A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD309359-A5E7-4776-8C97-5AEC95C911A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EDEB1A2C-4F3C-4674-8F8B-FAE8E455E9FE}
+		SolutionGuid = {3576DF0B-6C70-4073-9DC8-0BBAD3FFC88B}
 	EndGlobalSection
 EndGlobal
