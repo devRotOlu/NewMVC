@@ -9,3 +9,4 @@
 /lumiBookStore/.vs
 /lumiBookStore/bin/Debug/netcoreapp3.1
 /lumiBookStore/obj
+/lumiBookStore/wwwroot/lib

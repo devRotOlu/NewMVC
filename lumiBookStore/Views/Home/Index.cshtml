@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+
+</head>
+
+    <body>
+
+        <img src="~/images/b3_new.png" alt="logo" class="logo">
+
+        <img src="~/staticfiles/banner2.jpg" alt="banner" class="logo"/>
+    @{
+        List<int> list = new List<int>(){1,2,3,4};
+
+        foreach (var item in list)
+        {
+            <h2>I am number @item</h2>
+        }
+
+    }
+          <button class="btn btn-danger" type="button">Submit</button>
+        @*<h1>Welcome to Book Store application @(a > 2? 1 : 2)</h1>*@
+    </body>
+
+</html>
